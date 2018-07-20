@@ -1,0 +1,15 @@
+.searchOutcode {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.restaurantTable, .noData {
+    width: 50%;
+    margin: auto;
+}
+
+.restaurantTable th {
+    background-color: black;
+    color: white;
+}
