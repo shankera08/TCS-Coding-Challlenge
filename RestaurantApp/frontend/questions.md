@@ -1,6 +1,6 @@
 Q1 - How long did you spend on the coding test? What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
 
-A1 - I spent 10 hours although 6 hours were spent on debugging API invalid authorization key issue. I would include the other endpoints in the API to the test for more functionality for the user. Also, the web page is a bit slow due to the high volume of incoming data. Use pagination can improve performance.
+A1 - I spent 10 hours although 5 hours were spent on debugging API invalid authorization key issue. I would include the other endpoints in the API to the test for more functionality for the user. Also, the web page is a bit slow due to the high volume of incoming data. Use pagination can improve performance.
 
 Q2 What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
 
